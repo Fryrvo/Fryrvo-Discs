@@ -22,13 +22,9 @@
 <summary>Music List</summary>
 
 * **[Fryrvo - Dream](https://youtu.be/n1xaPIOeGOQ?si=i9rY6xe-LioIyDRA)**
-<br>
 * **[Fryrvo - Star](https://youtu.be/tA9Kk33Ftfg?si=exG8f985FaywANww)**
-<br>
 * **[Fryrvo - WanderLust](https://youtu.be/d_pUZ_5SnYw?si=xkH0St-cIwlZWD67)**
-<br>
 * **[Fryrvo - Signal](https://www.youtube.com/watch?v=CQ5U2PahmwI&list=OLAK5uy_lErfMa0golzBWs_qhZyFUadCCtYRlZwQI)**
-<br>
 * **[Fryrvo - Time](https://youtu.be/rlEvcHGu2CQ?si=gAbE2hEwVHRsftVN)**
 
 </details>
